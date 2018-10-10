@@ -1,7 +1,7 @@
 {
-    "name": "digital-creative-genesis",
+    "name": "fluffy-pancake",
     "version": "1.0.0",
-    "description": "## Digital Creative Genesis child theme",
+    "description": "## npm setup for using it as a build tool over Gulp or Grunt",
     "directories": {
       "lib": "lib"
     },
